@@ -1,0 +1,16 @@
+Slogan = Freelance? Mudah, Gak Ribet, GaweKuy aja!
+
+Penjelasan = GaweKuy merupakan platform mobile berbasis Android yang dirancang untuk menghubungkan para freelancer dengan calon klien secara cepat, mudah, dan efisien. Platform ini memungkinkan pengguna untuk memposting layanan, mencari jasa, serta melakukan transaksi dengan sistem escrow untuk menjamin keamanan pembayaran. GaweKuy memberikan pengalaman pengguna yang responsif dan terstruktur. (Kurang lebih, boleh disesuaikan lagi kata-katanya)
+
+Warna:
+1. Biru = 0084FF
+2. Biru Muda = DCEEFF
+3. Putih = FFFFFF
+
+Kontak:
+- Email = gawekuy05@gmail.com
+- Instagram = @gawekuy.id (https://www.instagram.com/gawekuy.id?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
+Link Download GaweKuy: https://github.com/luviandsp/GaweKuy/releases/
+
+Link Figma Desain Android: https://www.figma.com/design/b2oGaYTxhzveyYD6Ulz84c/Untitled?node-id=0-1&t=jY9ngcs2En14syuY-1
